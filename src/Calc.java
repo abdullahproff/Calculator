@@ -38,6 +38,7 @@ public class Calc<calculatorOperator> {
                     System.out.println("Wrong operand");
                     yield 0;
                     //этот комментарий для проверки гита
+                    //второй комментарий для проверки второго коммита
                 }
             };
 
